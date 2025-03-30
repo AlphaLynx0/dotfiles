@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	signingkey = 100ED08AC2F74784
+	email = alphalynx@protonmail.com
+	name = AlphaLynx
+[commit]
+	gpgsign = true
+[core]
+	editor = nvim
